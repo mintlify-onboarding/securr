@@ -40,22 +40,41 @@
   ],
   "navigation": [
     {
-      "group": "Home",
-      "pages": ["introduction", "features"]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
-    },
-    {
-      "group": "Endpoint Examples",
+      "group": "",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "securr/introduction"
+      ]
+    },
+    {
+      "group": "Overview",
+      "pages": [
+        "securr/overview/why-securr",
+        "securr/overview/our-vision"
+      ]
+    },
+    {
+      "group": "Platform",
+      "pages": [
+        "securr/platform/bug-bounty-platform",
+        "securr/platform/in-house-audits",
+        "securr/platform/vulnerability-scanner-+-app-health-checkups"
+      ]
+    },
+    {
+      "group": "Projects",
+      "pages": [
+        "securr/projects/bug-bounty-platform",
+        "securr/projects/in-house-smart-contract-auditing"
+      ]
+    },
+    {
+      "group": "Contact Us ",
+      "pages": [
+        "securr/contact-us/contact-us",
+        "securr/contact-us/quick-links"
       ]
     }
+    
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
