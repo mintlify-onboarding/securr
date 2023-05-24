@@ -68,14 +68,29 @@
       ]
     },
     {
-      "group": "Projects",
+      "group": "🏢 Projects",
       "pages": [
-        "securr/projects/bug-bounty-platform",
-        "securr/projects/in-house-smart-contract-auditing"
+        {
+          "group": "Bug Bounty Platform",
+          "pages": [
+            "securr/projects/bug-bounty/bug-bounty-platform",
+            "securr/projects/bug-bounty/overview",
+            "securr/projects/bug-bounty/the-process",
+            "securr/projects/bug-bounty/pricing"
+          ]
+        },
+        {
+          "group": "In-House Smart Contract Auditing",
+          "pages": [
+            "securr/projects/in-house-contract-auditing/in-house-smart-contract-auditing",
+            "securr/projects/in-house-contract-auditing/overview",
+            "securr/projects/in-house-contract-auditing/during-the-audit"
+          ]
+        }
       ]
     },
     {
-      "group": "Contact Us ",
+      "group": "📩 Contact Us ",
       "pages": [
         "securr/contact-us/contact-us",
         "securr/contact-us/quick-links"
