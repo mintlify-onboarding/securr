@@ -7,35 +7,42 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#5D5CFC",
+    "light": "#8B8AFB",
+    "dark": "#3E3DF6",
+    "anchors": {
+      "from": "#5D5CFC",
+      "to": "#42F673"
+    }
+  },
+  "modeToggle": {
+    "default": "dark"
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Pricing",
+      "url": "https://securr.tech/pricing"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Join In",
+    "url": "https://securr.tech/joinPage"
   },
   "anchors": [
     {
-      "name": "API Reference",
-      "icon": "rectangle-terminal",
-      "url": "api-reference"
+      "name": "Schedule a Meeting",
+      "icon": "envelope",
+      "url": "https://calendly.com/securrtech/securr?month=2023-05"
     },
     {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
+      "name": "Email Us",
+      "icon": "envelope",
+      "url": "suhrad@securr.tech"
     },
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "name": "Call Us",
+      "icon": "phone",
+      "url": "tel:+919909201529"
     }
   ],
   "navigation": [
@@ -77,8 +84,9 @@
     
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/fGQsvZz7qN",
+    "twitter": "https://twitter.com/securrtech/",
+    "linkedin": "https://www.linkedin.com/company/securrtech/",
+    "instagram": "https://www.instagram.com/securr_tech/"
   }
 }
