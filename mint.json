@@ -15,6 +15,7 @@
       "to": "#42F673"
     }
   },
+  "backgroundImage": "/background.png",
   "modeToggle": {
     "default": "dark"
   },
@@ -37,7 +38,7 @@
     {
       "name": "Email Us",
       "icon": "envelope",
-      "url": "suhrad@securr.tech"
+      "url": "mailto: suhrad@securr.tech"
     },
     {
       "name": "Call Us",
