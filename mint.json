@@ -31,7 +31,7 @@
   "anchors": [
     {
       "name": "Schedule a Meeting",
-      "icon": "envelope",
+      "icon": "calendar",
       "url": "https://calendly.com/securrtech/securr?month=2023-05"
     },
     {
@@ -47,7 +47,7 @@
   ],
   "navigation": [
     {
-      "group": "",
+      "group": "Home",
       "pages": [
         "securr/introduction"
       ]
